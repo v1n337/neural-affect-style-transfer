@@ -1,2 +1,1 @@
-# neural-affect-style-transfer
-Neural Affect Style Transfer
+# Neural Affect Style Transfer
